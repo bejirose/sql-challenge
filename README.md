@@ -5,7 +5,7 @@
 - Created primary keys to uniquely identify a row. Also created tables in the correct order to handle foreign keys
 - Imported the data from CSV files into the tables
 
-##Data Analysis
+## Data Analysis
 ### Created queries to perform the following:
 1. List the details of employee number, last name, first name, sex, and salary of each employee.
 2. List first name, last name, and hire date for employees who were hired in 1986.
