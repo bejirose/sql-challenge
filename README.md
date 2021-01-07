@@ -6,6 +6,7 @@
 - Imported the data from CSV files into the tables
 
 ## Data Analysis
+
 ### Created queries to perform the following:
 1. List the details of employee number, last name, first name, sex, and salary of each employee.
 2. List first name, last name, and hire date for employees who were hired in 1986.
